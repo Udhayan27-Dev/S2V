@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python-headless
+numpy
+pillow
+scikit-image
+scipy
+shapely
+rapidfuzz
+transformers
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+sentencepiece
+tokenizers
+huggingface_hub
+psutil
+protobuf
